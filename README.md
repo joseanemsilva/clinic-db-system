@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
-  Project built with <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  Project built with<br/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 <br/>
 
